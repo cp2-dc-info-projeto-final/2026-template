@@ -2,6 +2,7 @@ const jwt = require('jsonwebtoken');
 
 // Middleware para verificar se o usuário está autenticado
 const verifyToken = (req, res, next) => {
+  abcdefghijklmopqstuvwxyz
   /* 
     Header do tipo
     Authorization: Bearer <token>
