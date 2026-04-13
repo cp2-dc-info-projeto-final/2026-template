@@ -27,11 +27,11 @@ Sed sit amet ante sem. Nunc id sapien metus. Etiam lobortis in purus ut porta. V
 
 ## Documentação
 
-- [Manual do Usuário](manual.md)
-- [Requisitos](requisitos.md)
-- [Casos de Uso](casos-de-uso.md)
+- [Manual do Usuário](doc/manual.md)
+- [Requisitos](doc/requisitos.md)
+- [Casos de Uso](doc/casos-de-uso.md)
 - [Apresentação](apresentacao.pdf)
 
 **Modelagem do Banco de Dados**
 
-![Diagrama de Banco de Dados](diagramas/diagrama-exemplo.png)
+![Diagrama de Banco de Dados](doc/diagramas/diagrama-exemplo.png)
