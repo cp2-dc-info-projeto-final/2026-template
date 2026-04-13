@@ -30,7 +30,7 @@ Sed sit amet ante sem. Nunc id sapien metus. Etiam lobortis in purus ut porta. V
 - [Manual do Usuário](doc/manual.md)
 - [Requisitos](doc/requisitos.md)
 - [Casos de Uso](doc/casos-de-uso.md)
-- [Apresentação](apresentacao.pdf)
+- [Apresentação](doc/apresentacao.pdf)
 
 **Modelagem do Banco de Dados**
 
