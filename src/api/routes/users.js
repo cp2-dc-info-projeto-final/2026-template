@@ -8,7 +8,6 @@ const { verifyToken, isAdmin } = require('../middlewares/auth');
 function sendSuccess(res, status, message, data) {
   const payload = { success: true };
   if (message) payload.message = message;
-  if (typeof data !== 'undefined') payload.data = data;
   return res.status(status).json(payload);
 }
 
